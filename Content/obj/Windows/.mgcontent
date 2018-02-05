@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/Guillaume/Projets/T-WIN-EpiBubble_2017/T-WIN-EpiBubble_2017/Content/images/arrow.png</File>
+    <File>C:/Users/Guillaume/Projets/T-WIN-EpiBubble_2017/T-WIN-EpiBubble_2017/Content/images/bubble.png</File>
+    <File>C:/Users/Guillaume/Projets/T-WIN-EpiBubble_2017/T-WIN-EpiBubble_2017/Content/images/burger.ico</File>
+    <File>C:/Users/Guillaume/Projets/T-WIN-EpiBubble_2017/T-WIN-EpiBubble_2017/Content/images/strcat.jpg</File>
+    <File>C:/Users/Guillaume/Projets/T-WIN-EpiBubble_2017/T-WIN-EpiBubble_2017/Content/images/pizzacat.jpg</File>
+    <File>C:/Users/Guillaume/Projets/T-WIN-EpiBubble_2017/T-WIN-EpiBubble_2017/Content/images/Icon.ico</File>
+    <File>C:/Users/Guillaume/Projets/T-WIN-EpiBubble_2017/T-WIN-EpiBubble_2017/Content/font/NumberOfBubbles.spritefont</File>
+    <File>C:/Users/Guillaume/Projets/T-WIN-EpiBubble_2017/T-WIN-EpiBubble_2017/Content/font/BigText.spritefont</File>
+    <File>C:/Users/Guillaume/Projets/T-WIN-EpiBubble_2017/T-WIN-EpiBubble_2017/Content/images/1x1.bmp</File>
+    <File>C:/Users/Guillaume/Projets/T-WIN-EpiBubble_2017/T-WIN-EpiBubble_2017/Content/images/btn_four.png</File>
+    <File>C:/Users/Guillaume/Projets/T-WIN-EpiBubble_2017/T-WIN-EpiBubble_2017/Content/images/btn_one.png</File>
+    <File>C:/Users/Guillaume/Projets/T-WIN-EpiBubble_2017/T-WIN-EpiBubble_2017/Content/images/btn_three.png</File>
+    <File>C:/Users/Guillaume/Projets/T-WIN-EpiBubble_2017/T-WIN-EpiBubble_2017/Content/images/btn_two.png</File>
+    <File>C:/Users/Guillaume/Projets/T-WIN-EpiBubble_2017/T-WIN-EpiBubble_2017/Content/images/spacecat.jpg</File>
+  </SourceFiles>
+</SourceFileCollection>
